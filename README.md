@@ -1,4 +1,4 @@
-Lista de exercícios 3 - Ciência da Computação 2021/2 - Luiz Gonzaga da Silveira Junior
+**Lista de exercícios 3 - Ciência da Computação 2021/2 - Luiz Gonzaga da Silveira Junior**
 
 Aluna: Nadine Schneider
 
